@@ -80,6 +80,12 @@ http://127.0.0.1:5000/pred/42343657
 
 **type** - существование номера на фото (1 - номер найден, 0 - не найден)
 
+# Пример работы с Web интерфейсом по ссылке:
+```http://127.0.0.1:5000/pred/42343657```
+
+![skreen cast and gif](https://github.com/vlyrdv/train-number-detection/assets/61351039/ecf94a22-2450-4e66-ab5d-defff08ce1bb)
+
+
 
 # Принцип работы модели
 
