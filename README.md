@@ -50,17 +50,9 @@ http://127.0.0.1:5000/pred/42343657
 
 <h3>На вход модель получает фотографию:<h3>
 
-![42343657](https://github.com/vlyrdv/train_number_detection/assets/61351039/db93b45f-f4d8-4f04-8289-0ec6bee2a757)
+![42343657](https://github.com/abrikosmna/train-number-detection/assets/95037700/9e71743f-a6ab-48df-a1d4-f5114ebfa4e9)
 
 <br />
-
-<h3>Дальше модель вырезает номер: </h3>
-
-<br />
-
-![itog2](https://github.com/vlyrdv/train_number_detection/assets/61351039/a5ef67a5-7129-4589-832a-474fc01edc2d)
-
-
 
 <h3>И возвращает JSON объект:</h3>
 
